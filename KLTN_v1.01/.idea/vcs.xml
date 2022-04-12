@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/db_abc/Db-Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db_abc/Db-Tool-gen-schema-convert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db_abc/Db-Tool-gen-sql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db_abc/Db-kafka-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db_abc/Db-kafka-producer" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+Animals are cute, some cute animals are:{{range $key, $val := .}}{{$key}} , {{$val}}{{end}}

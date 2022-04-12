@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e299ad03-8835-4243-87ff-590ea62051c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Db-Test/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/cmd/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/rdb/dbHandler/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/rdb/dbHandler/postgresql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-schema-convert/rdb/rdb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-sql/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-Tool-gen-sql/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-kafka-producer/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-kafka-producer/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Db-kafka-producer/go.sum" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Db-Tool-gen-schema-convert" />
+  </component>
+  <component name="ProjectId" id="26dGUhqqdLve0tZNxeMjiMAYQGD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TuyenPV-D8\Documents\db_abc" />
+      <recent name="C:\Users\TuyenPV-D8\Documents\KLTN_v1.1\Db-kafka-consumer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TuyenPV-D8\Documents\db_abc" />
+      <recent name="C:\Users\TuyenPV-D8\Documents\KLTN_v1.1\Db-Tool-gen-schema-convert\rdb" />
+      <recent name="C:\Users\TuyenPV-D8\Documents\KLTN_v1.1\Db-Tool-gen-schema-convert\rdb\dbHandler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="KLTN_v1.1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="KLTN_v1.1" />
+      <working_directory value="$PROJECT_DIR$/Db-Tool-gen-schema-convert" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Db-Tool-gen-schema-convert/cmd/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repository" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="KLTN_v1.1" />
+      <working_directory value="$PROJECT_DIR$/repository" />
+      <kind value="PACKAGE" />
+      <package value="repository" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/repository/sql.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build template.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="KLTN_v1.1" />
+      <working_directory value="$PROJECT_DIR$/repository" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/repository/template.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build template.go" />
+        <item itemvalue="Go Build.go build repository" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>

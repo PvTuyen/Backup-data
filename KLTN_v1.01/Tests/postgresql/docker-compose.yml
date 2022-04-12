@@ -1,0 +1,29 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:14-alpine
+    ports:
+      - 5432:5432
+    volumes:
+      - ~/apps/postgres:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=123456123
+      - POSTGRES_USER=admin1
+      - POSTGRES_DB=myapp
+  mysql:
+    image: mysql:5.5
+    container_name: test-rdbRepository
+    ports:
+      - "3306:3306"
+    volumes:
+      - ~/apps/mysql:/var/lib/mysql
+      - .:/test-app
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456123
+      MYSQL_DATABASE: myapp1
+      MYSQL_USER: admin1
+      MYSQL_PASSWORD: 123456123
+volumes:
+  db:
+    driver: local
